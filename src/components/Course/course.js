@@ -19,7 +19,7 @@ const url="https://api.edyoda.com/v1/blog/post-detail/"
 
             
 
-const {id,large_image,title,content,posted_on}=course
+const {id,large_image,title,posted_on}=course
 const {name,description,profilepicture}=abcd
 // console.log(course)
 
@@ -36,7 +36,6 @@ const {name,description,profilepicture}=abcd
                  </div>
              </div>
              <div>
-                {content}
                     
              </div>
              <hr />

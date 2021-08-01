@@ -2,7 +2,7 @@
 body{
   text-align: center; 
   align-items: center;
-  display: flex;
+  /* display: flex; */
   font-family: Raleway,sans-serif;
  position: relative;
  box-sizing: border-box;
